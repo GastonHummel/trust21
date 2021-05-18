@@ -46,11 +46,16 @@ var Translations = {
    * If the CTA buttons are not required then remove the content from the variable - "CtaButtonSettings": {};
    */
   CtaButtonSettings: {
-    // button1: {
-    //   url: 'https://trust.precisely.com/',
-    //   label: 'Register Now',
-    //   icon: 'share'
-    // }
+    button1: {
+      card: 'End',
+      label: 'Register Now',
+      icon: 'save'
+    },
+    button2: {
+      card: '8f89373e',
+      label: 'Share',
+      icon: 'share'
+    }
   },
 
   /**
