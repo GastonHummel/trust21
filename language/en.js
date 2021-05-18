@@ -47,7 +47,7 @@ var Translations = {
    */
   CtaButtonSettings: {
     button1: {
-      card: 'End',
+      url: 'https://trust.precisely.com?utm_source=EOV',
       label: 'Register',
       icon: 'save'
     },
