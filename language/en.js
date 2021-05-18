@@ -48,7 +48,7 @@ var Translations = {
   CtaButtonSettings: {
     button1: {
       card: 'End',
-      label: 'Register Now',
+      label: 'Register',
       icon: 'save'
     },
     button2: {
